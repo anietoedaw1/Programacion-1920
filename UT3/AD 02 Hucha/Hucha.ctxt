@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Hucha()
+comment0.text=\nConstructor\ de\ objetos\ de\ la\ clase\ Hucha\n\n
+comment1.target=int\ getDinero()
+comment1.text=\nAccesor\ para\ el\ dinero\ que\nhay\ en\ la\ hucha\n@return\ \ la\ cantidad\ de\ dinero\n\n
+comment2.params=cuanto
+comment2.target=void\ a\u00F1adir(int)
+comment2.text=\nMutador\ para\ a\u00F1adir\ m\u00E1s\ dinero\na\ la\ hucha\n@param\ \ cuanto\ la\ cantidad\ a\ a\u00F1adir\n\n
+comment3.params=cuanto
+comment3.target=void\ sacar(int)
+comment3.text=\nMutador\ para\ saca\ dinero\ de\ la\ hucha\n@param\ \ cuanto\ la\ cantidad\ a\ sacar\n\n
+comment4.target=void\ printDetalles()
+comment4.text=\nMostrar\ detalles\ de\ la\ hucha\ \n\n
+numComments=5
