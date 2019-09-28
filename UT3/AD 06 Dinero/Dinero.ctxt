@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=cantidad
+comment0.target=Dinero(int)
+comment0.text=\r\n\ Constructor\ \r\n
+comment1.params=cantidad
+comment1.target=void\ setCantidad(int)
+comment1.text=\r\n\ Establecer\ la\ cantidad\ de\ dinero\r\n
+comment2.params=
+comment2.target=int\ getDinero()
+comment2.text=\r\n\ Accesor\ para\ el\ dinero\r\n\ @return\ el\ dinero\ que\ hay\ en\ el\ objeto\r\n\r\n
+comment3.params=
+comment3.target=void\ printDescomposicionMonedas()
+comment3.text=\r\n\ Muestra\ en\ pantalla\ la\ descomposici\u00F3n\r\n\ m\u00EDnima\ de\ monedas\ que\ representa\ la\r\n\ cantidad\ guardada\r\n
+comment4.params=
+comment4.target=void\ borrarPantalla()
+comment4.text=\r\n\ Limpia\ el\ terminal\ \ \r\n
+numComments=5
