@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Contador()
+comment0.text=\nConstructorde\ la\ clase\ Contador\n\n
+comment1.target=int\ getContador()
+comment1.text=\naccesor\n\n
+comment2.target=void\ incrementar()
+comment2.text=\nmutador,\ incrementa\ en\ uno\ el\ contador\n\n
+comment3.target=void\ decrementar()
+comment3.text=\nmutador,\ decrementa\ en\ uno\ el\ contador\n\n
+comment4.target=void\ printContador()
+comment4.text=\nMostrar\ detalles\ del\ contador\n\n
+comment5.target=void\ reset()
+comment5.text=\nmutador,\ inicializa\ (hace\ un\ reset)\na\ 0\ el\ contador\n\n
+numComments=6
