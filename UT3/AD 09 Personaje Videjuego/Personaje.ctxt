@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Personaje
+comment0.text=\r\n\ La\ clase\ modela\ objetos\ Personaje\ en\ un\ hipot\u00E9tico\r\n\ juego.\ Los\ personajes\ pueden\ avanzar\ y\ girar\ en\ diferentes\ \r\n\ direcciones\r\n\ \r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=queNombre
+comment1.target=Personaje(java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Personaje\r\n\ @paran\ queNombre\ elnombre\ del\ personaje\r\n
+comment2.params=
+comment2.target=void\ girar()
+comment2.text=\r\n\ Cambia\ la\ orientaci\u00F3n\ del\ personaje\ que\r\n\ siempre\ gira\ en\ el\ sentido\ de\ las\r\n\ agujas\ del\ reloj\r\n
+comment3.params=distancia
+comment3.target=void\ avanzar(int)
+comment3.text=\r\n\ Avanzar\ una\ determinada\ distancia\ seg\u00FAn\r\n\ la\ orientaci\u00F3n\ del\ personaje\r\n\r\n\ @param\ \ distancia\ unidades\ deavance\ \ \ \r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ una\ representaci\u00F3n\ textual\ del\ personaje\r\n\r\n\ @return\ el\ string\ que\ representa\ el\ personaje\ \r\n
+numComments=5
