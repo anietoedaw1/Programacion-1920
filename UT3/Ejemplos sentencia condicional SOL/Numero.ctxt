@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Numero
+comment0.text=\r\n\ Ejer\ 3.19\ de\ la\ UT3\ \r\n\ \r\n\ @author\ \ \r\n\ @version\ \ \r\n
+comment1.params=queNumero
+comment1.target=Numero(int)
+comment1.text=\r\n\ Constructor\ \ \r\n
+comment2.params=otroNumero
+comment2.target=boolean\ esMenorQue(int)
+comment2.text=\r\n\ \ \r\n
+comment3.params=otroNumero
+comment3.target=boolean\ esMayorQue(int)
+comment3.text=\r\n\ \ \r\n
+comment4.params=otroNumero
+comment4.target=boolean\ esIgualQue(int)
+comment4.text=\r\n\ \ \r\n
+comment5.params=otroNumero
+comment5.target=java.lang.String\ comprobar(int)
+comment5.text=\r\n\ \ \r\n
+numComments=6

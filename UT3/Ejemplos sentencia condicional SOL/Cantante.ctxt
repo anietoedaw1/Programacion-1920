@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Cantante
+comment0.text=\r\n\ \ \r\n\ \ UT3\ 3.18\r\n
+comment1.params=
+comment1.target=Cantante()
+comment1.text=\r\n\ Constructor\ \ \r\n
+comment2.params=
+comment2.target=void\ cantar()
+comment2.text=\r\n\ \ \r\n
+comment3.params=
+comment3.target=void\ cambiarEstadoAnimo()
+comment3.text=\r\n\ \ \r\n
+comment4.params=
+comment4.target=boolean\ estaTriste()
+comment4.text=\r\n\ \ \r\n
+comment5.params=
+comment5.target=boolean\ estaTristeIf()
+comment5.text=\r\n\ \ \r\n
+numComments=6
