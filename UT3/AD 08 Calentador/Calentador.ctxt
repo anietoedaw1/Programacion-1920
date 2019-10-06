@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Calentador
+comment0.text=\r\n\ Modela\ objetos\ Calentador\ que\r\n\ registran\ la\ temperatura\ de\ alg\u00FAn\ lugar\ y\ permiten\r\n\ calentar(aumentar)\ y\ enfriar(disminuir)\ esa\r\n\ temperatura\r\n\ \r\n
+comment1.params=elMinimo\ elMaximo
+comment1.target=Calentador(int,\ int)
+comment1.text=\r\n\ constructor\ para\ los\ objetos\ de\ la\ clase\ Calentador\r\n\ Inicialmente\ la\ temperatura\ inicial\ es\ 15\r\n
+comment2.params=
+comment2.target=void\ calentar()
+comment2.text=\r\n\ Incrementa\ la\ temperatura\ en\ 5\ grados\ (luego\ en\ incremento)\r\n\ teniendo\ \ en\ cuenta\ que\ no\ sobrepase\ el\ m\u00E1ximo\r\n
+comment3.params=
+comment3.target=void\ enfriar()
+comment3.text=\r\n\ \ Decrementa\ la\ temperatura\ en\ 5\ grados\ (luego\ el\ incremento),\ no\ hay\ que\ bajar\r\n\ \ del\ m\u00EDnimo\r\n
+comment4.params=elIncremento
+comment4.target=void\ setIncremento(int)
+comment4.text=\r\n\ Establecer\ el\ incremento\ que\ determina\ cuando\ pueden\ cambiar\ la\ \r\n\ temperatur\ los\ m\u00E9todos\ enfriar()\ y\ calentar()\r\n
+comment5.params=
+comment5.target=int\ getTemperatura()
+comment5.text=\r\n\ \ Devuelve\ la\ temperatura\ actual\ del\ calentador\r\n\ \ @return\ la\ temperatura\ actual\ del\ calentador\r\n
+numComments=6
