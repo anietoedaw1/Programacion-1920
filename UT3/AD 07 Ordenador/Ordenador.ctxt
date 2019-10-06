@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Ordenador
+comment0.text=\r\n\ Representa\ a\ objetos\ Ordenador\ \r\n\ \r\n\ \ \r\n
+comment1.params=maximaMemoria
+comment1.target=Ordenador(int)
+comment1.text=\r\n\ constructor\ para\ los\ objetos\ de\ la\ clase\ Ordenador\r\n\ @param\ maximaMemoria\ la\ memoria\ m\u00E1xima\ que\ va\ a\ ser\ instalada\r\n
+comment2.params=
+comment2.target=int\ getMaxMemoria()
+comment2.text=\r\n\ devolver\ la\ m\u00E1xima\ memoria\ que\ puede\ tener\ instalada\r\n\ \r\n\ @return\ \ la\ m\u00E1xima\ cantidad\ de\ memoria\ que\ puede\ tener\r\n\ \ \ \ \ \ \ \ \ \ el\ ordenador\r\n
+comment3.params=
+comment3.target=int\ obtenerMemoriaDisponible()
+comment3.text=\r\n\ Devolver\ la\ memoria\ que\ puede\ ser\ instalada\ todav\u00EDa\r\n\ @return\ \ la\ memoria\ disponible\r\n
+comment4.params=
+comment4.target=void\ vaciarMemoria()
+comment4.text=\r\n\ vaciar\ la\ memoria,\ m\u00E9todo\ mutador\r\n\ \ \r\n
+comment5.params=
+comment5.target=void\ printInformacion()
+comment5.text=\r\n\ Escribir\ informaci\u00F3n\ sobre\ el\ ordenador\r\n
+comment6.params=
+comment6.target=boolean\ instalar256Mb()
+comment6.text=\r\n\ Instalar\ 256\ Mb\ de\ memoria\ \r\n\ @return\ true\ si\ la\ memoria\ se\ ha\ instalado\r\n\ \ \ \ \ \ \ \ \ \ false\ en\ otro\ caso\r\n
+comment7.params=cuanta
+comment7.target=boolean\ instalarMemoria(int)
+comment7.text=\r\n\ Instalar\ la\ cantidad\ de\ memoria\ que\ se\ pasa\ como\ \r\n\ argumento\ (en\ Mb)\ si\ es\ posible\r\n\ @param\ cuanta\ la\ cantidad\ de\ memoria\ a\ instalar\r\n\ @return\ true\ si\ la\ memoria\ se\ ha\ instalado\r\n\ \ \ \ \ \ \ \ \ \ false\ en\ otro\ caso\r\n
+numComments=8
