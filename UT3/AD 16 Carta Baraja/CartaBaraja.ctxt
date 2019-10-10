@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CartaBaraja
+comment0.text=\r\n\ Modela\ una\ carta\ de\ la\ baraja\ espa\u00F1ola\r\n\ \r\n\ \r\n
+comment1.params=valor\ palo
+comment1.target=CartaBaraja(int,\ int)
+comment1.text=\r\n\ constructor\ para\ los\ objetos\ de\ la\ clase\ CartaBaraja\r\n\ @param\ valor\ el\ valor\ de\ la\ carta\r\n\ @param\ palo\ el\ palo\ de\ la\ carta\r\n
+comment2.params=
+comment2.target=java.lang.String\ getPalo()
+comment2.text=\r\n\ Accesor\ para\ el\ palo\r\n\ \r\n\ @return\ \ \ el\ palo\ de\ la\ carta\ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getValor()
+comment3.text=\r\n\ Accesor\ para\ el\ valor\ de\ la\ carta\r\n\ \r\n\ @return\ \ \ el\ valor\ \ de\ la\ carta\ \ \r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Representaci\u00F3n\ textual\ de\ la\ carta\r\n
+numComments=5
