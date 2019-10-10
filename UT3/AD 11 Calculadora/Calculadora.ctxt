@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Calculadora()
+comment0.text=\r\n\ constructor\ para\ los\ objetos\ de\ la\ clase\ Calculadora\r\n
+comment1.params=numero
+comment1.target=void\ addNumero(int)
+comment1.text=\r\n\ a\u00F1ade\ un\ n\u00BA\ a\ la\ calculadora\r\n\ \r\n\ @param\ \ el\ n\u00BA\ a\ a\u00F1adir\ \ \ \r\n
+comment2.params=
+comment2.target=double\ getMedia()
+comment3.params=
+comment3.target=void\ printEstadisticas()
+comment3.text=\ Escribir\ las\ estad\u00EDsticas\r\n\ \r\n
+numComments=4
