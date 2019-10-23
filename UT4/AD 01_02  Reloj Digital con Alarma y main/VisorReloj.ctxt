@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=VisorReloj()
+comment0.text=\nConstructor\ de\ objetos\ VisorReloj.\ Este\ constructor\ crea\ un\ nuevo\nreloj\ puesto\ en\ hora\ a\ las\ 00\:00\n\n
+comment1.params=hora\ minuto
+comment1.target=VisorReloj(int,\ int)
+comment1.text=\nConstructor\ de\ objetos\ VisorReloj.\ Este\ constructor\ crea\ un\ nuevo\nreloj\ puesto\ en\ hora\ a\ lpartir\ de\ los\ par\u00E1metros\ pasaados\ \nal\ constructor\n\n
+comment2.target=void\ emitirTic()
+comment2.text=\nEste\ m\u00E9todo\ deber\u00EDa\ llamarse\ una\ vez\ cada\ minuto\ -\ \npermite\ que\ el\ reloj\ avance\ un\ minuto\n\n
+comment3.params=hora\ minuto
+comment3.target=void\ ponerEnHora(int,\ int)
+comment3.text=\nPone\ la\ hora\ en\ el\ visor\ a\ un\ deternminado\ valor\ de\ hora\ y\ minuto\n\n
+comment4.target=String\ getHora()
+comment4.text=\nDevuelve\ la\ hora\ actual\ en\ el\ formato\ HH\:MM.\n\n
+comment5.target=void\ actualizarReloj()
+comment5.text=\nActualiza\ la\ cadena\ interna\ que\ representa\ el\ visor\n\n
+numComments=6

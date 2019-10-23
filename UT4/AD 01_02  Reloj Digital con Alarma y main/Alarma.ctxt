@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Alarma
+comment0.text=\r\n\ Representa\ \ a\ un\ \ objeto\ que\ guarda\ la\ \r\n\ hora\ de\ alarma\r\n\ \r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=Alarma()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Alarma\r\n
+comment2.params=nuevaHora\ nuevoMinutos
+comment2.target=void\ setHoraAlarma(int,\ int)
+comment2.text=\r\n\ Cambiar\ la\ hora\ de\ alarma\r\n\ @param\ \ nuevaHora\ la\ nueva\ hora\ de\ alarma\r\n\ @param\ nuevoMinutos\ los\ minutos\ de\ la\ hora\ de\ alarma\r\n
+comment3.params=
+comment3.target=java.lang.String\ getHoraAlarma()
+comment3.text=\r\n\ devuelve\ la\ hora\ de\ alarma\r\n\ @return\ \ \ \ \ un\ string\ representando\ la\ hora\ de\ alarma\r\n
+numComments=4
