@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Articulo
+comment0.text=\r\n\ \ \r\n\ \r\n\ @author\ \ \r\n\ @version\ \ \r\n
+comment1.params=nombre\ precio
+comment1.target=Articulo(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ \ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\r\n\ \r\n
+comment3.params=
+comment3.target=double\ getPrecio()
+comment3.text=\r\n\ \r\n
+comment4.params=precio
+comment4.target=void\ setPrecio(double)
+comment4.text=\r\n\ \r\n
+comment5.params=a
+comment5.target=boolean\ masBaratoQue(Articulo)
+comment5.text=\r\n\ \r\n
+numComments=6
