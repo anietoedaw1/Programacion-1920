@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AppCuenta
+comment0.text=\r\n\ Clase\ que\ contiene\ el\ m\u00E9todo\ main.\r\n\ Inicia\ la\ aplicaci\u00F3n\r\n\ \r\n\ @author\ (tu\ nombre)\ \r\n\ @version\ (n\u00BA\ versi\u00F3n\ o\ fecha)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Punto\ de\ entrada\ a\ la\ aplciaci\u00F3n\r\n
+numComments=2
