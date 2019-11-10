@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DemoFraccion()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ DemoFraccion\r\n
+comment1.params=
+comment1.target=void\ demo1()
+comment1.text=\r\n\ \r\n\r\n
+comment2.params=mensaje\ laFraccion
+comment2.target=void\ escribirFraccion(java.lang.String,\ Fraccion)
+comment2.text=\r\n\r\n\ \ \ \r\n
+comment3.params=
+comment3.target=void\ borrarPantalla()
+comment3.text=\r\n\r\n\ Limpiar\ la\ pantalla\ \ \ \ \r\n
+comment4.params=
+comment4.target=void\ demo2()
+comment4.text=\r\n\r\n\ \ \ \r\n
+numComments=5
