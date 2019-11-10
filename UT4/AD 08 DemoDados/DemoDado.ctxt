@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DemoDado
+comment0.text=\r\n\ Clase\ que\ prueba\ la\ clase\ Dado\r\n\ \ \r\n
+comment1.params=
+comment1.target=DemoDado()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ DemoDado\r\n
+comment2.params=
+comment2.target=void\ test1()
+comment2.text=\r\n\ Lanzar\ el\ dado\ TOTAL\ veces\ contando\r\n\ las\ apariciones\ del\ 1\ y\ del\ 6\r\n\ \ \ \ \r\n
+comment3.params=
+comment3.target=void\ test2()
+comment3.text=\r\n\ Lanzar\ el\ dado\ hasta\ que\ salga\r\n\ el\ 4\ o\ 5\ contando\ las\ veces\ que\ se\ lanz\u00F3\r\n\ \ \ \ \r\n
+comment4.params=
+comment4.target=void\ test3()
+comment4.text=\r\n\ tirar\ el\ dado\ mientras\ la\ suma\ de\ las\ tiradas\ no\ supere\ el\ valor\ 42.\r\n
+comment5.params=mensaje\ contador
+comment5.target=void\ escribir(java.lang.String,\ int)
+comment5.text=\r\n\ M\u00E9todo\ privado\ de\ ayuda\ para\ mostrar\ un\ mensaje\r\n
+numComments=6
