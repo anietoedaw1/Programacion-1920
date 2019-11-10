@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=numeroCuenta\ titular
+comment0.target=Cuenta(int,\ String)
+comment0.text=\nConstructor\ para\ los\ objetos\ de\ la\ clase\ Cuenta\n@param\ \ nuevoNumero\ \ el\ nuevo\ n\u00FAmero\ de\ cuenta\n\n
+comment1.params=nuevoNumero
+comment1.target=void\ setNumeroCuenta(int)
+comment1.text=\nmutador\ para\ el\ n\u00BA\ de\ cuenta\n@param\ \ nuevoNumero\ \ el\ nuevo\ n\u00FAmero\ de\ cuenta\n\n
+comment2.target=int\ getNumeroCuenta()
+comment2.text=\naccesor\ para\ el\ n\u00BA\ de\ cuenta\n\n
+comment3.params=cantidad
+comment3.target=void\ ingresar(double)
+comment3.text=\ningresar\ dinero\ en\ la\ cuenta\n@param\ cantidad\ \ \ cantidad\ a\ ingresar\n\n
+comment4.params=cantidad
+comment4.target=void\ reintegrar(double)
+comment4.text=\nreintegrar\ dinero\ de\ la\ cuenta\n@param\ cantidad\ \ la\ cantidad\ a\ reintegrar\n\n
+comment5.target=double\ getSaldo()
+comment5.text=\naccesor\ para\ el\ saldo\ de\ la\ cuenta\n\n
+comment6.target=String\ toString()
+comment6.text=\nvisualizar\ datos\ de\ la\ cuenta\n\n
+numComments=7
