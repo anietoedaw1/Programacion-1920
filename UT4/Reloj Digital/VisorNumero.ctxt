@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=limiteMaximo
+comment0.target=VisorNumero(int)
+comment0.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ VisorNumero\r\n
+comment1.params=
+comment1.target=int\ getValor()
+comment1.text=\r\n\ Devuelve\ el\ valor\ actual\r\n
+comment2.params=
+comment2.target=java.lang.String\ getValorVisor()
+comment2.text=\r\n\ Devuelve\ el\ valor\ del\ visor\ como\ una\ cadena\ de\ dos\ d\u00EDgitos\r\n\ Si\ el\ valor\ es\ menor\ que\ 10\ se\ le\ a\u00F1ade\ a\ la\ iquierda\ un\ 0\r\n
+comment3.params=nuevoValor
+comment3.target=void\ setValor(int)
+comment3.text=\r\n\ Pone\ el\ valor\ del\ visor\ al\ nuevo\ valor\ especificado.\ Si\ el\r\n\ nuevo\ valor\ es\ menor\ que\ 0\ o\ ssupera\ el\ l\u00EDmite\ no\ hace\ nada\r\n
+comment4.params=
+comment4.target=void\ incrementar()
+comment4.text=\r\n\ Incrementa\ el\ valor\ del\ display\ en\ 1,\ dando\ la\ vuelta\ a\ cero\r\n\ si\ se\ alcanza\ el\ l\u00EDmite\r\n
+numComments=5
