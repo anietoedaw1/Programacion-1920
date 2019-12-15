@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Diccionario
+comment1.params=numPalabras
+comment1.target=Diccionario(int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Diccionario\r\n\ @param\ numPalabras\ la\ cantidad\ de\ palabras\ m\u00E1xima\r\n\ que\ guardar\u00E1\ el\ diccionario\r\n
+comment2.params=nuevaPalabra
+comment2.target=void\ insertarPalabra(Palabra)
+comment2.text=\r\n\ \r\n\ @param\ nuevaPalabra\ la\ palabra\ a\ a\u00F1adir\ \ \ \ \ \r\n
+comment3.params=posicion
+comment3.target=Palabra\ obtenerPalabra(int)
+comment3.text=\r\n\ @param\ posicion\ la\ posici\u00F3n\ de\ la\ palabra\r\n\ \ \ \ \ \ \ \ a\ devolver.\ A\ partir\ de\ 1.\r\n\ @return\ la\ palabra\ de\ posicion\r\n
+comment4.params=posicion
+comment4.target=java.lang.String\ traducirPalabra(int)
+comment4.text=\r\n\ @param\ posicion\ la\ posici\u00F3n\ de\ la\ palabra\r\n\ \ \ \ \ \ \ \ a\ traducir.\ A\ partir\ de\ 1.\r\n\ @return\ la\ traducci\u00F3n\ al\ ingl\u00E9s\ de\ la\ palabra\r\n\ \ \ \ \ \ \ \ \ \ de\ posici\u00F3n\ \r\n
+comment5.params=
+comment5.target=void\ escribirDiccionario()
+comment5.text=\r\n\ Mostrar\ el\ diccionario\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Representaci\u00F3n\ textual\ del\ diccionario\r\n
+numComments=7
