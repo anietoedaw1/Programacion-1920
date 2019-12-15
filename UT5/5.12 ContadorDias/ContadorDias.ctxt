@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ContadorDias
+comment0.text=\r\n\ La\ clase\ modela\ un\ contador\ de\ d\u00EDas\ transcurridos\ \r\n\ hasta\ una\ fecha\ determinada\r\n\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=ContadorDias()
+comment2.params=dia\ mes\ a\u00F1o
+comment2.target=int\ contarDias(int,\ int,\ int)
+comment2.text=\r\n\ Cuenta\ el\ n\u00BA\ de\ d\u00EDas\ desde\ el\ inicio\ de\ a\u00F1o\r\n\r\n\ @param\ \ mes\ mes\ actual\ entre\ 1\ y\ 12\r\n\ @param\ \ dia\ actual\ \ entre\ 1\ y\ 31\r\n\ @param\ \ a\u00F1o\ actual\r\n\ @return\ la\ cantidad\ de\ d\u00EDas\ desde\ el\ comienzo\ de\ a\u00F1o\r\n
+comment3.params=a\u00F1o
+comment3.target=boolean\ esBisiesto(int)
+comment3.text=\r\n\ return\ true\ si\ a\u00F1o\ es\ bisiesto\r\n
+numComments=4
