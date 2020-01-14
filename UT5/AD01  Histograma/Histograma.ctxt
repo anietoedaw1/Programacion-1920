@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Histograma
+comment0.text=\r\n\ La\ clase\ contiene\ un\ array\ que\ se\ inicializa\ \r\n\ con\ una\ serie\ de\ valores\ y\ se\ utiliza\ para\ dibujar\r\n\ un\ histograma\r\n
+comment1.params=
+comment1.target=Histograma()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=void\ inicializar()
+comment2.text=\r\n\ inicializa\ el\ array\ con\ valores\ aleatorios\r\n
+comment3.params=
+comment3.target=int\ generarAleatorio()
+comment3.text=\r\n\ genera\ y\ devuelve\ un\ aleatorio\ entre\ 5\ y\ 50\ inclusive\r\n
+comment4.params=
+comment4.target=void\ escribirHistograma()
+comment4.text=\r\n\ \ muestra\ el\ histograma\r\n
+comment5.params=
+comment5.target=int[]\ getValoresV1()
+comment5.text=\r\n\ \r\n\ devuelve\ una\ copia\ del\ array\ \r\n
+comment6.params=
+comment6.target=int[]\ getValoresV2()
+comment6.text=\r\n\ \r\n\ devuelve\ una\ copia\ del\ array\ \r\n
+numComments=7
