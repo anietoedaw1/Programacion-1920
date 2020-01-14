@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Dado
+comment1.params=
+comment1.target=Dado()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Dado\r\n
+comment2.params=
+comment2.target=int\ getCara()
+comment2.text=\r\n\ \ \ \ accesor\ para\ la\ cara\r\n
+comment3.params=
+comment3.target=void\ tirarDado()
+comment3.text=\r\n\ \ \ simula\ el\ lanzamiento\ de\ un\ dado\r\n
+numComments=4

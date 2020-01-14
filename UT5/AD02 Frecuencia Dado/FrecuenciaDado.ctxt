@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FrecuenciaDado
+comment0.text=\r\n\ \ clase\ FrecuenciaDado\ \r\n\ \ \r\n
+comment1.params=
+comment1.target=FrecuenciaDado()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ FrecuenciaDado\r\n
+comment2.params=veces
+comment2.target=void\ tirarDado(int)
+comment2.text=\ \r\n\ tirar\ el\ dado\ n\ veces\ y\ contabilizar\ la\ frecuencia\ de\ aparici\u00F3n\r\n\ de\ la\ tirada\r\n
+comment3.params=
+comment3.target=void\ escribirFrecuencia()
+comment3.text=\r\n\ \ Mostrar\ las\ frecuencias\r\n
+numComments=4
