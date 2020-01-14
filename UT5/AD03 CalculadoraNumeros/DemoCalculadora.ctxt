@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DemoCalculadora
+comment0.text=\r\n\ \ \r\n
+comment1.params=
+comment1.target=DemoCalculadora()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ DemoCalculadora\r\n
+comment2.params=
+comment2.target=void\ testUno()
+comment3.params=
+comment3.target=void\ testDos()
+comment4.params=
+comment4.target=void\ testTres()
+numComments=5
