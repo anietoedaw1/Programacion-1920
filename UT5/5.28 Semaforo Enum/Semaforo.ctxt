@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Semaforo
+comment0.text=\r\n\r\n
+comment1.params=
+comment1.target=Semaforo()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Semaforo\r\n
+comment2.params=
+comment2.target=ColorSemaforo\ getEstado()
+comment2.text=\r\n\ accesor\ \r\n
+comment3.params=
+comment3.target=void\ cambiarEstado()
+comment3.text=\r\n\ mutador,\ cambia\ el\ estado\ del\ sem\u00E1foro\r\n
+comment4.params=
+comment4.target=java.lang.String\ getColoresSemaforo()
+comment4.text=\r\n\ Devuelve\ los\ colores\ del\ sem\u00E1foro\ en\ formato\ String\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Representaci\u00F3n\ textual\ del\ color\ del\ sem\u00E1foro\ \ \ \ \r\n
+numComments=6
