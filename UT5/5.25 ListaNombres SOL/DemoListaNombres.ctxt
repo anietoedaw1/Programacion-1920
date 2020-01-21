@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DemoListaNombres
+comment0.text=\r\n\ Demo\ para\ probar\ la\ clase\ ListaNombres\r\n\ Ejer\ 5.25\r\n
+comment1.params=
+comment1.target=DemoListaNombres()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ DemoListaNombres\r\n
+comment2.params=
+comment2.target=void\ testInsertar()
+comment2.text=\r\n\ \ \r\n\ \ \ \ \ \ \ \r\n
+comment3.params=
+comment3.target=void\ testNombreMasLargo()
+comment3.text=\r\n\ \ \ \ \ \ \ \ \r\n
+comment4.params=letra
+comment4.target=void\ testBorrarLetra(char)
+comment4.text=\r\n\ \ \ \ \ \ \ \ \r\n
+comment5.params=str
+comment5.target=void\ testEmpiezanPor(java.lang.String)
+comment5.text=\r\n\ \ \ \ \ \ \ \ \r\n
+comment6.params=letra
+comment6.target=void\ testEmpiezanPorLetra(char)
+comment6.text=\r\n\ \ \ \ \ \ \ \ \r\n
+comment7.params=
+comment7.target=void\ testEscribir()
+comment7.text=\r\n\ \r\n\r\n\ @param\ \ \ \r\n\ @return\ \ \ \ \ \r\n
+numComments=8
