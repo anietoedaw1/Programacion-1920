@@ -17,7 +17,7 @@ public class DemoScanner
     public DemoScanner()
     {
 
-        cadena = "Pepe:23:Pamplona:Navarra";
+        cadena = "Pepe:23:::Pamplona:Navarra";
     }
     
      /**
@@ -34,7 +34,7 @@ public class DemoScanner
      */
     public  int totalPalabras()
     {
-        String[] palabras = this.cadena.split(" ");
+        String[] palabras = this.cadena.split(":");
         
         int pal = 0;
         for (int i = 0; i < palabras.length; i++) {
@@ -43,7 +43,7 @@ public class DemoScanner
             }
         }
         return pal;
-      //  return palabras.length;
+      //  return this.cadena.split(":+").length;
     }
 
  
@@ -56,16 +56,17 @@ public class DemoScanner
     public void mostrarTokensConScanner()
     {
         Scanner sc = new Scanner(this.cadena);
-        sc.useDelimiter(":");
+        sc.useDelimiter(":+");
         while (sc.hasNext()) {
-            System.out.println(sc.next());
+            String token = sc.next();
+            System.out.println(token);
         }
     }
 
     /**
      * 
      */
-    public void ejemplo01Scanner()
+    public static void ejemplo01Scanner()
     {
         String s = "Ejemplo de Java";
         Scanner sc = new Scanner(s);
@@ -89,6 +90,19 @@ public class DemoScanner
         System.out.println("La suma es " + suma);
     }
     
+    
+     /**
+     * 
+     */
+    public static void ejemplo03Scanner()
+    {
+        String s = "Ejemplo\n\n\nde\n\n\n\nJava\t\tpepe";
+        Scanner sc = new Scanner(s);
+        sc = sc.useDelimiter(" ");
+        while (sc.hasNext()) {
+            System.out.println(sc.next());
+        }
+    }
 
      /**
      * Devuelve la cantidad de palabras en una frase. Separador el " "
@@ -113,7 +127,7 @@ public class DemoScanner
         String vocales = "AEIOUaeiou";
         int total = 0;
         for (int i = 0; i < palabra.length(); i++) {
-            if (vocales.indexOf(palabra.charAt(i) + "") != -1) {
+            if (vocales.indexOf(String.valueOf(palabra.charAt(i))) != -1) {
                 total ++;
             }
         }
