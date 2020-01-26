@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ControlConEnumerado()
+comment0.text=\r\n\ Constructor\ iniicializa\ nivel\ a\ BAJO\ \r\n
+comment1.params=
+comment1.target=Nivel\ getNivel()
+comment1.text=\r\n\ \ devuelve\ el\ valor\ actual\ de\ nivel\r\n
+comment2.params=nivel
+comment2.target=void\ setNivel(Nivel)
+comment2.text=\r\n\ \ devuelve\ el\ valor\ actual\ de\ nivel\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ \r\n
+comment4.params=strNivel
+comment4.target=Nivel\ queNivel(java.lang.String)
+comment4.text=\r\n\ \r\n
+comment5.params=
+comment5.target=Nivel[]\ valoresDelTipo()
+comment5.text=\r\n\ \ \r\n\r\n
+numComments=6

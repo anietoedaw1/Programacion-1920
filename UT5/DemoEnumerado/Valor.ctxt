@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Valor
+comment0.text=\r\n\ \ \r\n
+comment1.params=valor
+comment1.target=Valor(int)
+comment2.params=
+comment2.target=int\ getValor()
+comment2.text=\r\n\ \r\n
+numComments=3

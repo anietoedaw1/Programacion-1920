@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ControlSinEnumerado()
+comment0.text=\r\n\ Constructor\ iniicializa\ nivel\ a\ BAJO\ \r\n
+comment1.params=
+comment1.target=int\ getNivel()
+comment1.text=\r\n\ \ devuelve\ el\ valor\ actual\ de\ nivel\r\n
+comment2.params=nivel
+comment2.target=void\ setNivel(int)
+comment2.text=\r\n\ \ devuelve\ el\ valor\ actual\ de\ nivel\r\n
+numComments=3

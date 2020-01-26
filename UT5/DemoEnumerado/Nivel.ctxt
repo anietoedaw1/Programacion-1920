@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Nivel
+comment0.text=\r\n\ Enumera\ el\ conjunto\ de\ valores\ posibles\ para\ un\ objeto\ ControlConEnumerado\r\n\ http\://tutorials.jenkov.com/java/enums.html\r\n
+comment1.params=nivel
+comment1.target=Nivel(int)
+comment2.params=
+comment2.target=int\ getValorNivel()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ \ \r\n
+numComments=4
