@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=titulo\ duracion
+comment0.target=Cancion(java.lang.String,\ double)
+comment0.text=\r\n\ Constructor\ \ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getTitulo()
+comment1.text=\r\n\ \ \ Accesor\ para\ el\ t\u00EDtulo\r\n\ \r\n
+comment2.params=
+comment2.target=double\ getDuracion()
+comment2.text=\r\n\ \ \ Accesor\ para\ la\ duracion\r\n\ \r\n
+comment3.params=titulo
+comment3.target=void\ setTitulo(java.lang.String)
+comment3.text=\r\n\ \ \ Mutadorr\ para\ el\ t\u00EDtulo\r\n\ \r\n
+comment4.params=duracion
+comment4.target=void\ setDuracion(double)
+comment4.text=\r\n\ \ \ Mutador\ para\ la\ duracion\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ \r\n
+numComments=6
