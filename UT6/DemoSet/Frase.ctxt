@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Frase
+comment1.params=frase
+comment1.target=Frase(java.lang.String)
+comment1.text=\r\n\ \ Constructor\ \ \r\n\ @param\ frase\ la\ frase\ desde\ la\ que\ extraeremos\ las\ palabras\r\n\ Cada\ palabra\ est\u00E1\ separada\ por\ espacios\r\n
+comment2.params=
+comment2.target=void\ mostrarFrase()
+comment2.text=\r\n\ \r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ \ \r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ConjuntoPuntos
+comment0.text=\r\n\ Representa\ un\ conjunto\ de\ puntos\r\n
+comment1.params=
+comment1.target=ConjuntoPuntos()
+comment1.text=\r\n\ Constructor\ \ \r\n
+comment2.params=p
+comment2.target=boolean\ add(Punto)
+comment2.text=\r\n\ \ A\u00F1ade\ un\ punto\ al\ conjunto\r\n
+comment3.params=
+comment3.target=void\ mostrar()
+comment3.text=\r\n\ \r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ \ \r\n
+numComments=5
