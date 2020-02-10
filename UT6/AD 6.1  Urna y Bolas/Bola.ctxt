@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bola
+comment0.text=\r\n\ Representa\ a\ una\ bola\r\n\ \ \r\n
+comment1.params=
+comment1.target=Bola()
+comment1.text=\r\n\ Constructor\ \r\n
+comment2.params=
+comment2.target=Color\ getColor()
+comment2.text=\r\n\ Accesor\ para\ el\ clor\ de\ la\ bola\r\n
+comment3.params=
+comment3.target=boolean\ esBlanca()
+comment3.text=\r\n\ \r\n\ @return\ \ true\ si\ es\ blanca\ \ \ \r\n
+comment4.params=
+comment4.target=boolean\ esNegra()
+comment4.text=\r\n\ \r\n\ @return\ \ true\ si\ es\ negra\ \ \ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getColorString()
+comment5.text=\r\n\ return\ el\ color\ de\ la\ bola\ en\ formato\ String\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Representaci\u00F3n\ textual\ de\ una\ bola\r\n
+numComments=7

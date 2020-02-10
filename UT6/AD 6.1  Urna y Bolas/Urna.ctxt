@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Urna
+comment1.params=
+comment1.target=Urna()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Urna\r\n
+comment2.params=b
+comment2.target=void\ meterBola(Bola)
+comment2.text=\r\n\ A\u00F1ade\ una\ nueva\ bola\ a\ la\ urna\r\n\ @param\ b\ la\ bola\ a\ a\u00F1adir\r\n
+comment3.params=
+comment3.target=Bola\ sacarBola()
+comment3.text=\r\n\ Saca\ una\ bola\ de\ la\ urna\r\n\ @return\ la\ bola\ sacada\r\n\ @throws\ RuntimeException\ si\ la\ urna\ est\u00E1\ vac\u00EDa\r\n
+comment4.params=hasta
+comment4.target=int\ obtenerPosicionAleatoria(int)
+comment4.text=\r\n\ @return\ un\ valor\ que\ representa\ una\ posici\u00F3n\r\n\ \ \ \ \ \ \ \ \ \ en\ la\ urna\r\n\ @param\ hasta\ el\ l\u00EDmite\ hasta\ el\ que\ generar\ valores\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ aleatorios\r\n
+comment5.params=
+comment5.target=int\ cuantasBlancas()
+comment5.text=\r\n\ \ \r\n\ @return\ \ \ cantidad\ de\ bolas\ blancas\ en\ la\ urna\ \ \r\n
+comment6.params=
+comment6.target=int\ cuantasNegras()
+comment6.text=\r\n\ \ \r\n\ @return\ \ \ cantidad\ de\ bolas\ negras\ en\ la\ urna\ \ \r\n
+comment7.params=
+comment7.target=void\ mostrarUrna()
+comment7.text=\r\n\ Muestra\ la\ urna\r\n\ \ \ \ \r\n
+comment8.params=
+comment8.target=void\ borrarBlancas()
+comment8.text=\r\n\ Borra\ las\ bolas\ de\ color\ blanco\r\n\ \ \ \ \ \ \r\n
+numComments=9
