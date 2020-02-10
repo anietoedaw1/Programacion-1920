@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StockDemo()
+comment0.text=\r\n\ Crea\ el\ gestor\ y\ a\u00F1ade\ algunos\ productos\r\n
+comment1.params=
+comment1.target=void\ recibirProducto()
+comment1.text=\r\n\ Demostraci\u00F3n\ de\ c\u00F3mo\ el\ gestor\ puede\ ser\ usado\r\n
+comment2.params=id
+comment2.target=void\ mostrarDetalles(int)
+comment2.text=\r\n\ Mostrar\ detalles\ de\ un\ producto.\ \r\n\ @param\ id\ ISD\ del\ producto\ a\ buscar\r\n
+comment3.params=id
+comment3.target=void\ venderProducto(int)
+comment3.text=\r\n\ Vender\ un\ art\u00EDculo\ de\ un\ producto\r\n\ Mostra\ el\ estado\ del\ producto\ antes\ y\ despu\u00E9s\ de\ la\ venta\r\n\ @param\ id\ El\ id\ del\ producto\ vendido\r\n
+comment4.params=cantidad
+comment4.target=void\ menorQue(int)
+comment4.text=\r\n\ Mostrar\ productos\ del\ almac\u00E9n\ con\ nivel\r\n\ de\ stock\ por\ debajo\ de\ cantidad\r\n
+comment5.params=id
+comment5.target=Producto\ getProducto(int)
+comment5.text=\r\n\ Obtener\ el\ producto\ de\ id\ dado\ desde\ el\ gestor.\r\n\r\n\ @param\ id\ El\ ID\ del\ producto\r\n\ @return\ El\ producto\ o\ null\ si\ no\ se\ encuentra\r\n
+comment6.params=
+comment6.target=GestorStock\ getGestor()
+comment6.text=\r\n\ @return\ El\ gestor\ de\ stock\r\n
+numComments=7
