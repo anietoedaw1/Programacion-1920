@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Secuencia
+comment1.params=otra
+comment1.target=Secuencia(java.util.ArrayList)
+comment1.text=\r\n\ Construye\ una\ secuencia\ a\ partir\ de\ la\ colecci\u00F3n\ \r\n\ recibida\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getSecuencia()
+comment2.text=\r\n\ accesor\ para\ la\ secuencia\ ArrayList\ almacenada\r\n
+comment3.params=otra
+comment3.target=java.util.ArrayList\ fusionarCon(java.util.ArrayList)
+comment3.text=\r\n\ Obtiene\ la\ fusi\u00F3n\ (la\ uni\u00F3n)\ de\ dos\ listas\ \r\n\ de\ n\u00FAmeros\ ordenadas,\ la\ representada\ por\ el\ atributo\ lista\ y\ \r\n\ la\ representada\ por\ el\ par\u00E1metro\ otra\r\n\ \r\n
+comment4.params=otra
+comment4.target=java.util.ArrayList\ interseccionCon(java.util.ArrayList)
+comment4.text=\r\n\ Obtiene\ la\ intersecci\u00F3n\ de\ lista\ y\ el\ par\u00E1metro\ otra.\ La\ \ intersecci\u00F3n\ \r\n\ contiene\ los\ elementos\ comunes\ y\ no\ repetidos\ de\ ambas\ (en\ orden)\r\n
+comment5.params=lista
+comment5.target=java.util.ArrayList\ eliminarDuplicados(java.util.ArrayList)
+comment5.text=\r\n\ \ Elimina\ los\ duplicados\ de\ una\ lista\r\n\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Representaci\u00F3n\ textual\ de\ la\ secuencia\ guardada\r\n\ por\ el\ objeto\ actual\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\r\n\ \ Pruea\ de\ la\ clase\r\n
+numComments=8
