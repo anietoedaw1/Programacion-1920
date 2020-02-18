@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=SerieMultiplos
+comment1.params=
+comment1.target=SerieMultiplos()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ SeriePotencias\r\n
+comment2.params=num
+comment2.target=void\ a\u00F1adirEntrada(int)
+comment2.text=\r\n\ \r\n\ @param\ \ num\ el\ n\u00BA\ que\ ser\u00E1\ la\ clave\r\n\ \ \r\n
+comment3.params=num
+comment3.target=java.util.ArrayList\ generarMultiplos(int)
+comment3.text=\r\n\ \r\n\ @param\ \ num\ el\ n\u00BA\ del\ que\ se\ generear\u00E1n\ los\ m\u00FAltiplos\r\n\ @return\ una\ colecci\u00F3n\ ArrayLIst\ con\ los\ m\u00FAltiplos\ generados\r\n
+comment4.params=num
+comment4.target=java.util.ArrayList\ obtenerMultiplosDe(int)
+comment4.text=\r\n\ \r\n\ @param\ \ num\ el\ n\u00BA\ del\ que\ se\ obtendr\u00E1n\ los\ m\u00FAltiplos\r\n\ @return\ \ la\ colecci\u00F3n\ asociada\ en\ el\ map\ \ \ \r\n
+comment5.params=
+comment5.target=void\ escribirMap()
+comment5.text=\r\n\ Visualiza\ el\ map\ (claves\ y\ valores\ asociados)\r\n\ \ \ \ \r\n
+comment6.params=lista
+comment6.target=void\ escribirValor(java.util.ArrayList)
+comment6.text=\r\n\ M\u00E9todo\ privado\ de\ ayuda\ que\ visualiza\ aun\ ArrayList\r\n\ \ \ \ \r\n
+comment7.params=multi
+comment7.target=int\ borrarMultiplo(int)
+comment7.text=\r\n\ borrar\ del\ map\ (de\ todas\ las\ entradas)\ el\ m\u00FAltiplo\ indicado\r\n\ Con\ Map.Entry\ y\ un\ iterador\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment8.text=\r\n\ \ \r\n
+numComments=9
