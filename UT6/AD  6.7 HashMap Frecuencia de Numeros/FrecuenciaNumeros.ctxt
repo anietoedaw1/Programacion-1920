@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FrecuenciaNumeros
+comment1.params=
+comment1.target=FrecuenciaNumeros()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ FrecuenciaNumeros\r\n
+comment2.params=numero
+comment2.target=void\ a\u00F1adirNumero(int)
+comment2.text=\r\n\ \r\n\r\n\ @param\ \ el\ n\u00BA\ a\ a\u00F1adir\ \ \ \ \r\n
+comment3.params=
+comment3.target=void\ cargarDeFichero()
+comment3.text=\r\n\ lee\ los\ n\u00FAmeros\ de\ un\ fichero\ de\ texto\ \r\n\ \ \ \ \ \ \r\n
+comment4.params=
+comment4.target=void\ listarFrecuencias()
+comment4.text=\r\n\ \r\n\ Listar\ cada\ n\u00FAmero\ aparecido\ y\ su\ frecuencia\r\n\ Se\ utiliza\ Map.Entry\ (conjunto\ de\ entradas)\r\n
+comment5.params=
+comment5.target=void\ listarNumeros()
+comment5.text=\r\n\ \r\n\ Muestra\ cu\u00E1ntos\ n\u00FAmeros\ diferentes\ han\ aparecido\r\n\ y\ la\ relaci\u00F3n\ de\ todos\ ellos\r\n\ \r\n\ Se\ utiliza\ la\ "vista"\ sobre\ las\ claves\r\n\ y\ un\ for\ mejorado\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ \ \r\n
+numComments=7
