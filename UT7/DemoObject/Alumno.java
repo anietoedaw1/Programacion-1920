@@ -46,8 +46,7 @@ public class Alumno  implements Comparable<Alumno>
         if (this == obj)    {
             return true;
         }        
-        if (this.getClass() != obj.getClass())
-        {
+        if (this.getClass() != obj.getClass())   {
             return false;
         }
         Alumno a = (Alumno) obj;    
@@ -71,7 +70,8 @@ public class Alumno  implements Comparable<Alumno>
     {
         int r = this.nombre.compareToIgnoreCase(a.getNombre());
         if (r == 0)  {
-            return  this.nota - a.getNota();
+            // return  this.nota - a.getNota();
+            return Integer.compare(this.nota, a.getNota());
 
         }
         return r;
@@ -84,7 +84,7 @@ public class Alumno  implements Comparable<Alumno>
     public String toString()
     {
         //Class c = this.getClass();        
-        return this.getClass().getName() + "\n" + nombre + " - " + nota;
+        return this.getClass().getName() + ": " + nombre + " - " + nota;
     }
 
 

@@ -55,10 +55,9 @@ public class ListaAlumnos
         List<Alumno> tmp = new ArrayList<>(this.alumnos);
         Collections.sort(tmp);
         System.out.println(tmp.toString());
-        
+
 
     }
-
     /**
      *  
      */
@@ -68,23 +67,22 @@ public class ListaAlumnos
         alumnos.sort(Comparator.naturalOrder());
         alumnos.forEach(a ->  System.out.println(a.toString()));
     }
-    
-      /**
+
+    /**
      *  
      */
     public void ordenarPorNotaV1()
     {
         System.out.println("Ordenados solo por nota");
         Comparator<Alumno> comparador = new Comparator<Alumno>() {
-            public int compare(Alumno a1, Alumno a2) {
-                return a1.getNota() - a2.getNota();
-            }
-        };
+                public int compare(Alumno a1, Alumno a2) {
+                    return a1.getNota() - a2.getNota();
+                }
+            };
         alumnos.sort(comparador);
-        
+
     }
-    
-    
+
 
     /**
      *  Con expresiones Lambda
@@ -106,8 +104,11 @@ public class ListaAlumnos
         lista.addAlumno(new Alumno("ana", 9));
         lista.printAlumnos();
 
-        lista.ordenarPorNombre();
-        lista.ordenarPorNotaV1();
+        lista.ordenar();
         lista.printAlumnos();
+
+        // lista.ordenarPorNombre();
+        // lista.ordenarPorNotaV1();
+        // lista.printAlumnos();
     }
 }

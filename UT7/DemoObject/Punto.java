@@ -18,6 +18,7 @@ public class Punto  implements Comparable<Punto>
         this.y = y;
 
     }
+
     /**
      *  
      * 
@@ -59,10 +60,12 @@ public class Punto  implements Comparable<Punto>
      */
     public int compareTo(Punto p)
     {
-        int rx = this.x - p.getX();
+        // int rx = this.x - p.getX();
+        int rx = Integer.compare(this.x, p.getX());
         if (rx == 0)   {
-            int ry = this.y - p.getY();
-            return ry;
+            // int ry = this.y - p.getY();
+            // return ry;
+            return Integer.compare(this.y, p.getY());
         }
         return rx;
     }
@@ -93,6 +96,7 @@ public class Punto  implements Comparable<Punto>
         }
         Punto p = (Punto) obj;    
         return x == p.getX() && y == p.getY();
+
     }
 
     /**

@@ -62,8 +62,8 @@ public class AppPuntos
         Imprimible imp = new Punto3D(4, 5, 6);
         imp.print();
 
-        Punto3D pp = new Punto3D(8, 8, -8);
-        Punto x = pp;
+        // Punto3D pp = new Punto3D(8, 8, -8);
+        // Punto x = pp;
         //   x = imp; // tipos imcompatibles
         //   pp = imp; // tipos imcompatibles
 

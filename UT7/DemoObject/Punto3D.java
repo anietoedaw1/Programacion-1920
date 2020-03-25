@@ -68,7 +68,8 @@ public class Punto3D extends Punto implements Imprimible
         if(p instanceof Punto3D)        {
             int r = super.compareTo(p);
             if (r == 0)            {
-                r = this.z - ((Punto3D) p).getZ();
+                // r = this.z - ((Punto3D) p).getZ();
+                r = Integer.compare(this.z, ((Punto3D) p).getZ());
             }
             return r;
         } 
