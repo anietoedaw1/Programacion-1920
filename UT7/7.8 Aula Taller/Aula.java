@@ -2,7 +2,7 @@
 /**
  *   
  */
-public class Aula implements Comparable<Aula>
+public class Aula implements Comparable<Aula>, Cloneable
 {
 
     private String nombre;
@@ -59,8 +59,6 @@ public class Aula implements Comparable<Aula>
             "\t" + nombre + "\t" + pupitres + " pupitres");
     }
 
-     
-
     /**
      *  
      *
@@ -95,9 +93,21 @@ public class Aula implements Comparable<Aula>
      */
     public int compareTo(Aula a)
     {
-         
+
         return this.nombre.compareToIgnoreCase(a.getNombre());
     }
 
+    /**
+     * 
+     */
+    public Aula clone() {
+        try {
+            return (Aula) super.clone();
+        }
+        catch (CloneNotSupportedException ex) {
+            return null;
+        }
+
+    }
 
 }
