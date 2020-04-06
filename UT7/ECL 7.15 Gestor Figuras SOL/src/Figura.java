@@ -150,7 +150,7 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 		//		if (this.area() > otra.area()) {
 		//			return 1;
 		//		}
-		//		return 0;
+		//		return 0; 
 
 		return Double.compare(this.area(), otra.area());
 	}
