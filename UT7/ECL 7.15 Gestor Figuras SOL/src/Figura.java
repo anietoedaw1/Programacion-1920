@@ -7,7 +7,8 @@
 import java.awt.Color;
 import java.awt.Point;
 
-public abstract class Figura implements Movible, Comparable<Figura> {
+public abstract class Figura implements Movible, Comparable<Figura>
+{
 
 	private Point centro;
 	private Color color;
@@ -20,7 +21,8 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 	 * @param y
 	 *            la coordenada y del centro
 	 */
-	public Figura(int x, int y, Color color) {
+	public Figura(int x, int y, Color color)
+	{
 
 		centro = new Point(x, y);
 		this.color = color;
@@ -32,7 +34,8 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 	 * 
 	 * @return el centro de la figura
 	 */
-	public Point getCentro() {
+	public Point getCentro()
+	{
 
 		return centro;
 	}
@@ -43,7 +46,8 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 	 * 
 	 * @return el color de la figura
 	 */
-	public Color getColor() {
+	public Color getColor()
+	{
 
 		return color;
 	}
@@ -68,12 +72,15 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 	 * 
 	 */
 	@Override
-	public String toString() {
+	public String toString()
+	{
 
 		return "Clase " + this.getClass().getName() + "\nCentro: "
-		        + centro.toString() + "\nColor:  " + getColor().toString()
-		        + "\nÁrea  " + String.format("%5.2f", area()) + "\nPerímetro  "
-		        + String.format("%5.2f", perimetro());
+		                + centro.toString() + "\nColor:  "
+		                + getColor().toString()
+		                + "\nÁrea  " + String.format("%5.2f", area())
+		                + "\nPerímetro  "
+		                + String.format("%5.2f", perimetro());
 	}
 
 	/**
@@ -84,7 +91,8 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 	 * 
 	 */
 	@Override
-	public void moverHorizontal(int desp) {
+	public void moverHorizontal(int desp)
+	{
 
 		centro.move((int) centro.getX() + desp, (int) centro.getY());
 
@@ -98,7 +106,8 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 	 *            el desplazamiento vertical de la figura
 	 */
 	@Override
-	public void moverVertical(int desp) {
+	public void moverVertical(int desp)
+	{
 
 		centro.move((int) centro.getX(), (int) centro.getY() + desp);
 
@@ -110,7 +119,8 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 	 * @override
 	 */
 	@Override
-	public boolean equals(Object obj) {
+	public boolean equals(Object obj)
+	{
 
 		if (this == obj) {
 			return true;
@@ -131,7 +141,8 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 	 * @override
 	 */
 	@Override
-	public int hashCode() {
+	public int hashCode()
+	{
 
 		return centro.hashCode() + color.hashCode();
 	}
@@ -142,7 +153,8 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 	 * @override
 	 */
 	@Override
-	public int compareTo(Figura otra) {
+	public int compareTo(Figura otra)
+	{
 
 		//		if (this.area() < otra.area()) {
 		//			return -1;
@@ -152,7 +164,7 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 		//		}
 		//		return 0;
 
-		return Double.compare(this.area(), otra.area());
+		return (int) (Math.signum(this.area() - otra.area()));
 	}
 
 }
