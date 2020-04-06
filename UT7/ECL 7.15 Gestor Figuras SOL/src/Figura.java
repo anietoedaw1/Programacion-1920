@@ -143,14 +143,13 @@ public abstract class Figura implements Movible, Comparable<Figura> {
 	 */
 	@Override
 	public int compareTo(Figura otra) {
-
 		//		if (this.area() < otra.area()) {
 		//			return -1;
 		//		}
 		//		if (this.area() > otra.area()) {
 		//			return 1;
 		//		}
-		//		return 0; 
+		//		return 0;
 
 		return Double.compare(this.area(), otra.area());
 	}
